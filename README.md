@@ -7,3 +7,5 @@ This is a project I performed during my Intership @The Spark Foundation
 * As a Business Manager Try to find out the weak areas where we can work to make more profit 
 * Derive Business problems by Exploring the data
 * Create Dashboards for the same
+
+Tableau Publick link : https://public.tableau.com/app/profile/sinu.s.mariam/viz/SAmpleSuperstore/NameSINUSMARIAMTask3EDA-RETAILDASHBOARD?publish=yes
